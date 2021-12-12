@@ -15,4 +15,14 @@ public class AppTest {
     public void test3() {
         System.out.println("Running test 3");
     }
+
+    @Test
+    public void test4() {
+        System.out.println("Running test 4");
+    }
+
+    @Test
+    public void test5() {
+        System.out.println("Running test 5");
+    }
 }
